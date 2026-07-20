@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle:
+subtitle: Senior Undergraduate Student at Michigan State University
 
 profile:
   align: right
