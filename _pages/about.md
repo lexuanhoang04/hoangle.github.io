@@ -30,5 +30,5 @@ My research interests span **Physical AI, Robotics, and 3D Perception**. I am al
 ## Awards
 
 - **Engineering Summer Undergraduate Research Fellowship**, Michigan State University, 2024
-- **Professorial Assistantship**, Michigan State University, 2022–2023
+- **Professorial Assistantship**, Michigan State University, 2023–2025
 - **Dean's List**, Michigan State University, 2023–2026
