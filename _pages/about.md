@@ -1,23 +1,21 @@
 ---
 layout: about
-title: about
+title: home
 permalink: /
-subtitle: Ph.D. Student in Computer Vision & Machine Learning.
+subtitle:
 
 profile:
   align: right
-  image: me.jpg
+  image: avatar.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>lexuanhoang2004@gmail.com</p>
+    <p>lehoang2@msu.edu</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
 
 latest_posts:
   enabled: true
@@ -25,6 +23,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am Hoang Xuan Le, a researcher interested in computer vision, deep learning, and probabilistic methods. My work spans 3D scene understanding, depth estimation, and the theoretical foundations of modern neural networks.
+Hi! I am Hoang Le, a Computer Science undergraduate at Michigan State University (MSU). I am advised by Dr. Zijun Cui at the Domino Lab (MSU), and I also work with Dr. Xingxing Zuo at the RCL Lab (MBZUAI) through the UGRIP program.
 
-Feel free to reach out via email or explore my research through the links below.
+My research interests span **Physical AI, Robotics, and 3D Perception**. I am always open to collaboration opportunities, so please feel free to reach out!
