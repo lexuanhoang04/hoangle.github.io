@@ -23,6 +23,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I am Hoang Le, a Computer Science undergraduate at Michigan State University (MSU). I am advised by Dr. Zijun Cui at the Domino Lab (MSU), and I also work with Dr. Xingxing Zuo at the RCL Lab (MBZUAI) through the UGRIP program.
+Hi! I am Hoang Le, a Computer Science undergraduate at Michigan State University (MSU). I am advised by [Dr. Zijun Cui](https://zijunjkl.github.io/) at the Domino Lab (MSU), and I also work with [Dr. Xingxing Zuo](https://xingxingzuo.github.io/) at the RCL Lab (MBZUAI) through the UGRIP program. Previously, I worked with [Dr. Abhinav Kumar](https://sites.google.com/view/abhinavkumar/) and [Dr. Xiaoming Liu](https://scholar.google.com/citations?user=Bii0w1oAAAAJ&hl=en) at the MSU CV Lab.
 
 My research interests span **Physical AI, Robotics, and 3D Perception**. I am always open to collaboration opportunities, so please feel free to reach out!
+
+## Awards
+
+- **Engineering Summer Undergraduate Research Fellowship**, Michigan State University, 2024
+- **Professorial Assistantship**, Michigan State University, 2022–2023
+- **Dean's List**, Michigan State University, 2023–2026
